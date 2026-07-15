@@ -1,2 +1,0 @@
-# guessinggame
-Coursera Git assignment
